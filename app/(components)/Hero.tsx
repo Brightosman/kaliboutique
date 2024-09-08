@@ -1,7 +1,4 @@
 import React from 'react'
-import {model} from "@/public/model.jpg"
-import {model2} from "@/public/model2.jpg"
-import {model3} from "@/public/model3.jpg"
 import Image from 'next/image'
 
 export default function Hero() {
